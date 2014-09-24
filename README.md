@@ -10,3 +10,7 @@ In the code repository, hammer.js, map.js and map.ie.js in the javascript folder
 To add new projections, add the coordinate transformation functions to javascript/hammer.js, then follow the demo page to modify html. 
 
 To download, go to: https://code.google.com/p/projection-map/
+
+Author
+-----
+X. Chen, Larry, Conrad
