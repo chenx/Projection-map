@@ -1,7 +1,7 @@
 projection-map
 ==============
 
-An extendable library for drawing sky projection maps in HTML5 canvas and Javascript. 
+An extendable library for drawing sky projection maps, in HTML5 canvas and Javascript. 
 
 It allows translation/rotation/zoom of the map, can draw frames on the map and display the location of selected frames. This is useful for projects in fields such as astronomy and GIS. An example image is shown below. Click here for a demo.
 
